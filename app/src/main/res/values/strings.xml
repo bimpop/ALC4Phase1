@@ -1,0 +1,19 @@
+<resources>
+    <!-- Activity Names -->
+    <string name="app_name">ALC 4 Phase 1</string>
+    <string name="about">About ALC</string>
+    <string name="my_profile">My Profile</string>
+
+    <!-- Text -->
+    <string name="welcome">Welcome to ALC 4.0</string>
+    <string name="content_description">About Andela Learning Community</string>
+
+    <!-- Profile Details -->
+    <string name="profile_name">Abimbola Popoola</string>
+    <string name="profile_track">Track: Android</string>
+    <string name="profile_country">Country: Nigeria</string>
+    <string name="profile_email">Email: abimbolapopoola57@gmail.com</string>
+    <string name="profile_phone_number">Phone Number: 2348093369978</string>
+    <string name="profile_slack_username">Slack Username: @Abimbola</string>
+
+</resources>
